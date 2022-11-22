@@ -1,5 +1,5 @@
-import { idbPromise } from "../../utils/helpers";
 import React, { useEffect } from "react";
+import { idbPromise } from "../../utils/helpers";
 import {
   UPDATE_CATEGORIES,
   UPDATE_CURRENT_CATEGORY,

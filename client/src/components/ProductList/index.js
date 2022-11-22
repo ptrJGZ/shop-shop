@@ -1,5 +1,5 @@
-import { idbPromise } from "../../utils/helpers";
 import React, { useEffect } from "react";
+import { idbPromise } from "../../utils/helpers";
 import { useQuery } from "@apollo/client";
 import { useStoreContext } from "../../utils/GlobalState";
 import { UPDATE_PRODUCTS } from "../../utils/actions";
